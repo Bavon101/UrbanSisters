@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "148172632816",
+    "firebase_url": "https://urban-sisters-2ddb5.firebaseio.com",
+    "project_id": "urban-sisters-2ddb5",
+    "storage_bucket": "urban-sisters-2ddb5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:148172632816:android:bcbda21ff506efc9d98835",
+        "android_client_info": {
+          "package_name": "com.bavon.urbansisters.urbansisters"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "148172632816-2gc7j6rag1s9hbqvgj0ivegaq62f3uc6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6xxN0I2jpHLVSSWrnESUBJS_yCAGbIdE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "148172632816-2gc7j6rag1s9hbqvgj0ivegaq62f3uc6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
